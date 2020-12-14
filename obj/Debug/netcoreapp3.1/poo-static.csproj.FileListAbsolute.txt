@@ -1,0 +1,13 @@
+C:\Users\vinixiii\Desktop\poo-static\bin\Debug\netcoreapp3.1\poo-static.exe
+C:\Users\vinixiii\Desktop\poo-static\bin\Debug\netcoreapp3.1\poo-static.deps.json
+C:\Users\vinixiii\Desktop\poo-static\bin\Debug\netcoreapp3.1\poo-static.runtimeconfig.json
+C:\Users\vinixiii\Desktop\poo-static\bin\Debug\netcoreapp3.1\poo-static.runtimeconfig.dev.json
+C:\Users\vinixiii\Desktop\poo-static\bin\Debug\netcoreapp3.1\poo-static.dll
+C:\Users\vinixiii\Desktop\poo-static\bin\Debug\netcoreapp3.1\poo-static.pdb
+C:\Users\vinixiii\Desktop\poo-static\obj\Debug\netcoreapp3.1\poo-static.csprojAssemblyReference.cache
+C:\Users\vinixiii\Desktop\poo-static\obj\Debug\netcoreapp3.1\poo-static.AssemblyInfoInputs.cache
+C:\Users\vinixiii\Desktop\poo-static\obj\Debug\netcoreapp3.1\poo-static.AssemblyInfo.cs
+C:\Users\vinixiii\Desktop\poo-static\obj\Debug\netcoreapp3.1\poo-static.csproj.CoreCompileInputs.cache
+C:\Users\vinixiii\Desktop\poo-static\obj\Debug\netcoreapp3.1\poo-static.dll
+C:\Users\vinixiii\Desktop\poo-static\obj\Debug\netcoreapp3.1\poo-static.pdb
+C:\Users\vinixiii\Desktop\poo-static\obj\Debug\netcoreapp3.1\poo-static.genruntimeconfig.cache
